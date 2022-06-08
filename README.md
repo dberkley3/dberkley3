@@ -1,6 +1,6 @@
 ## Hi there!👋 I'm David Berkley, Jr.
 
-### Full Stack Software Engineer 
+<!-- ### Full Stack Software Engineer  -->
 
 ![davidberkleyjr](davidberkleyjr.png)
 
