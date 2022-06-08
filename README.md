@@ -2,7 +2,7 @@
 
 ### Full Stack Software Engineer 
 
-![davidberkleyjr](David Berkley, Jr..png)
+![davidberkleyjr](davidberkleyjr.png)
 
 
 
